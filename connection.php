@@ -2,8 +2,8 @@
 
 $host = "localhost";
 $username = "root";
-$password = "qwerty12345#";
-$dbname = "login_info";
+$password = "";
+$dbname = "event_management_system";
 
 $conn = new mysqli($host, $username, $password, $dbname);
 
